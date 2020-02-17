@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "app.foodhouse.com.ru"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. Food House</name>
+    <name>Food House</name>
 
     <description>
         Доставка пиццы и суши в Севастополе Food House - это лучшие рецепты, опытные повара, и, главное, только быстрое приготовление Ваших заказов. Кроме того, у нас всегда бесплатная доставка пиццы и бесплатная доставка суши.
